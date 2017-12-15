@@ -1,7 +1,9 @@
 package org.launchcode.models.data;
 
-import javafx.geometry.Pos;
+
 import org.launchcode.models.*;
+
+import javafx.geometry.Pos;
 
 import java.util.ArrayList;
 import java.util.HashMap;
